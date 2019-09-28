@@ -1,2 +1,3 @@
-# springboot-sandbox
-A demo app on springboot and kubernetes
+# springboot-camellia
+A demo app on springboot and kubernetes.
+
